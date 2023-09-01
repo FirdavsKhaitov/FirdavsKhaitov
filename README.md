@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FirdavsKhaitov
+- 👀 I’m interested in python coding and website creating
+- 🌱 I’m currently learning python, javascript, django, aiogram and html&css
+- 💞️ I’m looking to collaborate on it companies
+- 📫 How to reach me - gmail: htfirdavscoder@gmail.com
